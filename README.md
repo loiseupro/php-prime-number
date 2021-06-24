@@ -1,2 +1,2 @@
-# php-prime-number
+# PHP script to check if value is prime number
 Simple script to check if value is prime number
